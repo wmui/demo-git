@@ -1,0 +1,3 @@
+[submodule "gulp-demo"]
+	path = gulp-demo
+	url = https://github.com/wmui/gulp-demo.git
